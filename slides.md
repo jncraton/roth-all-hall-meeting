@@ -104,7 +104,7 @@ Introductions
 
 # Emergencies
 
-## Video
+##
 
 <video style="width:60%;margin:0" controls src="fire.mp4" type="video/mp4"></video>
 
