@@ -136,9 +136,9 @@ Introductions
 - Pulling the fire alarm results in a $500 fine
 - Setting off the alarm results in a $50 minimum fine
 
-# Housekeeping
+# Facilities
 
-## Facilities
+## Maintenance
 
 - Contact your RA with maintenance requests
 - Laundry is on the first floor
