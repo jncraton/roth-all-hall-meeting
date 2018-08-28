@@ -37,33 +37,29 @@ Introductions
 
 # My Hobbies
 
-<section>
-<img src=media/lego-enfield.jpg style="width:60%"></img>
-</section>
+## 
 
-<section>
-<img src=media/terminal.png style="width:60%"></img>
-</section>
+![](media/lego-enfield.jpg)
 
-<section>
-<img src=media/sc.jpg style="width:60%"></img>
-</section>
+## 
 
-<section>
-<img src=media/smw.jpg style="width:60%"></img>
-</section>
+![](media/terminal.png)
 
-<section>
-<img src=media/boardgames.jpg style="width:60%"></img>
-</section>
+## 
 
-<section>
-<img src=media/electronics.jpg style="width:60%"></img>
-</section>
+![](media/sc.jpg)
 
-<section>
-<img src=media/outside.jpg style="width:60%"></img>
-</section>
+## 
+
+![](media/smw.jpg)
+
+## 
+
+![](media/electronics.jpg)
+
+## 
+
+![](media/outside.jpg)
 
 # Living
 
@@ -113,7 +109,7 @@ Introductions
 
 ##
 
-<iframe src="https://www.youtube.com/embed/1EBfxjSFAxQ" frameborder="0" allow="encrypted-media" allowfullscreen style="min-height:400px"></iframe>
+<iframe src="https://www.youtube.com/embed/1EBfxjSFAxQ" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
 
 ## Contact Information
 
