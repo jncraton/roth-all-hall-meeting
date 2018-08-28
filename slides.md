@@ -38,23 +38,23 @@ Introductions
 # Hobbies
 
 <section>
-<img src=lego-enfield.jpg style="width:60%"></img>
+<img src=media/lego-enfield.jpg style="width:60%"></img>
 </section>
 
 <section>
-<img src=terminal.png style="width:60%"></img>
+<img src=media/terminal.png style="width:60%"></img>
 </section>
 
 <section>
-<img src=sc.jpg style="width:60%"></img>
+<img src=media/sc.jpg style="width:60%"></img>
 </section>
 
 <section>
-<img src=smw.jpg style="width:60%"></img>
+<img src=media/smw.jpg style="width:60%"></img>
 </section>
 
 <section>
-<img src=outside.jpg style="width:60%"></img>
+<img src=media/outside.jpg style="width:60%"></img>
 </section>
 
 # Living
