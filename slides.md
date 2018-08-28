@@ -148,6 +148,11 @@ Introductions
 ## Maintenance
 
 - Contact your RA with maintenance requests
+- We are happy to fix issues, just let us know
+- Common issues include replacing lightbulbs, fixing wobbly furniture, replacing broken blinds, etc
+
+## Laundry
+
 - Laundry is on the first floor
 - Any laundry left for more than 4 hours may be confiscated and you'll have to pay a small fee to get it back*
 - Bikes should be stored in the bike racks or shed, not in the building
@@ -169,7 +174,7 @@ Introductions
     - Sexually inappropriate
     - Drug or alcohol related
     - Occult oriented
-    - For a further description, see student handbook...
+    - For a further description, see the Student Guide...
 
 ## Large appliances
 
@@ -179,20 +184,15 @@ Introductions
 ## Fire safety
 
 - No throwing or playing with Frisbees, balls, etc. in the hall.
-- No extension cords of any kind are allowed in the dorms except for power strips with surge protectors.
-- No more than 10% of a wall may be covered with flammable material (posters, tapestries, etc)
+- No extension cords are allowed in residence halls except for power strips with surge protectors.
+- No more than 10% of a wall may be covered with flammable materials (posters, tapestries, curtains, flags, etc)
 
 ## Recycling
 
 - All recycling goes in the blue bins
-- Recycling containers are everywhere – including every residence hall floor and laundry
+- Recycling containers are everywhere
 - All plastics (#1-#7), mixed paper & cardboard, glass, metal (including alum, tin, trays, foil)
 - No chip bags, food scraps, greasy napkins, or liquids
-
-## Parking
-
-- You need a special pass to park in the Roth lot. This is only available to Juniors and Seniors.
-- There is plentiful parking in the Fire Hall lot.
 
 # Questions?
 
