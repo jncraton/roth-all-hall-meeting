@@ -17,6 +17,8 @@ Introductions
 ## RA on-duty
 - 7pm-7am each night
 
+# About Me
+
 ## Who am I?
 
 - I live in the building. But I'm not a student...
@@ -34,8 +36,6 @@ Introductions
 - After hours:
     - If it's not urgent, email is preferred (jonathan.craton@houghton.edu)
     - Otherwise, contact the Student Life office or the RA/RD on-duty
-
-# My Hobbies
 
 ## 
 
