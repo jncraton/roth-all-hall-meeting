@@ -1,4 +1,4 @@
-all: slides.html notes.html
+all: slides.html notes.html index.html
 
 slides.html: slides.md
 	pandoc -t html5 --template=reveal/template.html --standalone --section-divs --variable transition="linear"  slides.md -o slides.html
@@ -6,5 +6,8 @@ slides.html: slides.md
 notes.html: slides.md
 	pandoc slides.md -o notes.html
 
+index.html: slides.html
+	cp slides.html index.html
+
 clean:
-	rm -f slides.html *pdf
+	rm -f *.html *.pdf
