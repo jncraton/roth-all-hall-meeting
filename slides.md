@@ -84,7 +84,6 @@ Introductions
 
 ## Open hours schedule
 
-- First one is this Wednesday night
 - Monday from 7pm to 11pm (Men's halls only)
 - Tuesday from 7pm to 11pm
 - Wednesday from 7pm to 11pm (Women's halls only)
