@@ -106,7 +106,7 @@ Introductions
 
 ##
 
-<video style="width:60%;margin:0" controls src="media/fire.mp4" type="video/mp4"></video>
+<iframe src="https://www.youtube.com/embed/1EBfxjSFAxQ" frameborder="0" allow="encrypted-media" allowfullscreen style="min-height:400px"></iframe>
 
 ## Contact Information
 
