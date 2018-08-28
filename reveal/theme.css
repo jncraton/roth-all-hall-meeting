@@ -71,10 +71,10 @@ body {
 .reveal img,
 .reveal video,
 .reveal iframe {
-  padding-top: -50px;
-  margin-top: -50px;
-  width: 95%;
-  height: 95%; }
+  width: 60%;
+  height: 60%; 
+  min-height:400px;
+}
 
 .reveal strong,
 .reveal b {
