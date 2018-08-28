@@ -6,6 +6,17 @@
 
 Introductions
 
+## RAs
+
+- Community Builders
+- Student Life Representatives
+- Learning and Growth Facilitators
+- Facilities Overseers
+- Peer Supporters
+
+## RA on-duty
+- 7pm-7am each night
+
 ## Who am I?
 
 - I live in the building. But I'm not a student...
@@ -24,22 +35,27 @@ Introductions
     - If it's not urgent, email is preferred (jonathan.craton@houghton.edu)
     - Otherwise, contact the Student Life office or the RA/RD on-duty
 
-## Hobbies
+# Hobbies
 
------
+<section>
+<img src=lego-enfield.jpg style="width:60%"></img>
+</section>
 
-![](lego-enfield.jpg)
-    
-## RAs
+<section>
+<img src=terminal.png style="width:60%"></img>
+</section>
 
-- Community Builders
-- Student Life Representatives
-- Learning and Growth Facilitators
-- Facilities Overseers
-- Peer Supporters
+<section>
+<img src=sc.jpg style="width:60%"></img>
+</section>
 
-## RA on-duty
-- 7pm-7am each night
+<section>
+<img src=smw.jpg style="width:60%"></img>
+</section>
+
+<section>
+<img src=outside.jpg style="width:60%"></img>
+</section>
 
 # Living
 
