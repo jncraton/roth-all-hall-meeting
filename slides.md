@@ -35,7 +35,7 @@ Introductions
     - If it's not urgent, email is preferred (jonathan.craton@houghton.edu)
     - Otherwise, contact the Student Life office or the RA/RD on-duty
 
-# Hobbies
+# My Hobbies
 
 <section>
 <img src=media/lego-enfield.jpg style="width:60%"></img>
