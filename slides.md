@@ -54,6 +54,14 @@ Introductions
 </section>
 
 <section>
+<img src=media/boardgames.jpg style="width:60%"></img>
+</section>
+
+<section>
+<img src=media/electronics.jpg style="width:60%"></img>
+</section>
+
+<section>
 <img src=media/outside.jpg style="width:60%"></img>
 </section>
 
